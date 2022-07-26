@@ -1,28 +1,27 @@
-body{
- background-color:black;
-   color:red;
-
+body {
+	background-color: black;
+	color: red;
 }
-.title{ 
-   text-align: center;
-   font-family: 'Splash', cursive;
-   margin-top:10px;
-   font-size: 300%;
+.title {
+	text-align: center;
+	font-family: "Splash", cursive;
+	margin-top: 10px;
+	font-size: 300%;
 }
 
-
-
-.pics{ 
-   margin-top:100px;
-   display: flex;
-   align-items: center;
-   justify-content: center;
-flex-direction: column;
-
+.pics {
+	margin-top: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
 }
-img{
-   
+img {
+	width: 50px;
+	height: auto;
+}
 
-   width: 50px;
-   height: auto;
+iframe {
+	margin-bottom: 50px;
+	margin-top: 30px;
 }
