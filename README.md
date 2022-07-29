@@ -1,1 +1,1 @@
-(preview)[https://oeuf16.github.io/WLRwebsite/]
+[preview](https://oeuf16.github.io/WLRwebsite/)
